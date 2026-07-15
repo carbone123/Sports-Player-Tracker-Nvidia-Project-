@@ -1,4 +1,4 @@
-Soccer Ball & Player Tracker
+### Soccer Ball & Player Tracker
 
 On-device computer vision app that detects, tracks, and visualizes soccer players and the ball, running fully on an NVIDIA Jetson Orin Nano.
 
