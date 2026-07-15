@@ -34,7 +34,7 @@ Known limitations
 
 
 Ball detection is unreliable at typical broadcast distance. The ball is often only a few pixels wide in wide-shot footage, which is near the practical limit of what a lightweight detector can resolve. It works much better in close-up or replay footage.
-Jersey-number reading (OCR) was attempted and set aside. At broadcast resolution, digits on a jersey are frequently too small or blurry to read reliably — this is a genuine hardware/footage-resolution limitation, not a bug.
+Jersey-number reading (OCR) was attempted and set aside (might be included later). At broadcast resolution, digits on a jersey are frequently too small or blurry to read reliably — this is a genuine hardware/footage-resolution limitation, not a bug.
 Team assignment is color-based, not true team recognition. It can be confused by unusual goalkeeper or referee kit colors, since it clusters purely on visual jersey color.
 Tracking assumes one continuous camera shot. It does not re-identify players across a hard camera cut (e.g., cutting from a wide shot to a replay) — a new track begins after every cut.
 
