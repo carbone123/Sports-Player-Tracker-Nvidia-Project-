@@ -56,7 +56,7 @@ Install the Jetson-specific PyTorch and torchvision builds
 Generic pip install torch does not have Jetson GPU support — you need NVIDIA's board-specific wheel:
 
 
-bash   pip3 install --no-cache https://developer.download.nvidia.com/compute/redist/jp/v60/pytorch/torch-2.4.0a0+07cecf4168.nv24.05.14710581-cp310-cp310-linux_aarch64.whl
+`bash   pip3 install --no-cache https://developer.download.nvidia.com/compute/redist/jp/v60/pytorch/torch-2.4.0a0+07cecf4168.nv24.05.14710581-cp310-cp310-linux_aarch64.whl`
 
 Then install the matching torchvision build with --no-deps so pip doesn't overwrite the correct torch version:
 
