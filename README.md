@@ -90,7 +90,7 @@ Being honest about what doesn't fully work:
 
 Here's a walkthrough / demo of the project in action:
 
-**[https://drive.google.com/file/d/1EJu330o-6YO6kyqZKiKjYvgbPqtivFU7/view?usp=sharing]**
+**https://drive.google.com/file/d/1EJu330o-6YO6kyqZKiKjYvgbPqtivFU7/view?usp=sharing**
 
 ---
 
